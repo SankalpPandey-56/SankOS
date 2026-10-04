@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Window background: avoids any white flash before Compose draws. -->
+    <color name="sank_window_bg">#080808</color>
+    <color name="sank_icon_bg">#0A0A0A</color>
+</resources>

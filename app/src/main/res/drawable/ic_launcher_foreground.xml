@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  SankOS launcher mark: a dot-matrix "S" rendered on the SankOS dot grid.
+  The grid, stroke and optical sizing rules are defined in docs/DESIGN.md.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FF6A00"
+        android:pathData="M47,33 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M54,33 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M61,33 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M40,40 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M68,40 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M40,47 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M47,54 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M54,54 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M61,54 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M68,61 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M40,68 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M68,68 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M47,75 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M54,75 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0 M61,75 m-3.1,0 a3.1,3.1 0 1,1 6.2,0 a3.1,3.1 0 1,1 -6.2,0" />
+</vector>
