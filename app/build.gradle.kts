@@ -21,7 +21,8 @@ android {
             // v0.1: signed with the debug key so the release APK is directly
             // installable on the target device. A dedicated keystore arrives
             // with the first tagged milestone build.
-            isMinifyEnabled = false
+            isMinifyEnabled = true
+            isShrinkResources = true
             signingConfig = signingConfigs.getByName("debug")
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
